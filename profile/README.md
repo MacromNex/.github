@@ -1,8 +1,8 @@
-# Macromolecule Nexus 🧬
+# Macromolecular Nexus 🧬
 
 **A unified ecosystem for macromolecular design tools and automated workflows.**
 
-The **Macromolecule Nexus (MacMolNex)** is a research-driven GitHub organization focused on the intersection of Geometric Deep Learning, Molecular Physics, and Synthetic Biology. Our mission is to maintain a unified ecosystem for State-of-the-Art (SOTA) methods while pioneering novel solutions for the most challenging problems in macromolecular design.
+The **Macromolecular Nexus (MacromNex)** is a research-driven GitHub organization focused on the intersection of Geometric Deep Learning, Molecular Physics, and Synthetic Biology. Our mission is to maintain a unified ecosystem for State-of-the-Art (SOTA) methods while pioneering novel solutions for the most challenging problems in macromolecular design.
 
 ### 🧪 [ProteinMCP](https://github.com/charlesxu90/ProteinMCP)
 *Comprehensive design platform for proteins, enzymes, and antibodies.*
